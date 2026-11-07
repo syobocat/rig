@@ -16244,7 +16244,7 @@ dependencies = [
 [[package]]
 name = "sqlite-vec"
 version = "0.1.10-alpha.4"
-source = "git+https://github.com/syobocat/sqlite-vec.git?branch=patch#09d407b3e4ca3c03626fdd5b4fee224290f711c2"
+source = "git+https://github.com/syobocat/sqlite-vec.git?branch=patch#da1b88e0e7c185d5138da464dddbc0759cff0fb5"
 dependencies = [
  "cc",
 ]
